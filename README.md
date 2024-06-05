@@ -20,4 +20,4 @@ Example of a bearish engulfing candlestick:
 
 ![image](https://github.com/kyledecamargo/engulfing-trading-bot/assets/142937783/60db5951-98fa-4651-8755-9c85178aecd1)
   
-  DataFrame version of the graph showing the daioly open, high, low, close, adj close and volume of the candlesticks as well as the buy signals (2), sell signals (1), or no clear signal (0).
+  DataFrame version of the graph showing the daily open, high, low, close, adj close and volume of the candlesticks as well as the buy signals (2), sell signals (1), or no clear signal (0).
